@@ -170,7 +170,12 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: '前往公众号: [name](www.baidu.com) 回复 code 免费获取密码，然后点击左下角设置按钮输入密码后解锁免费使用<br/>提问:你可以在这里放一些常用问题吗?<br/>回答:当然可以,还可以在这里放一些问题解答，太棒了!<br/>常见问题和使用说明点击查看👉 [link](www.baidu.com)<br/>卡顿或无响应?可能是用户量太大,👉 [buylink](www.baidu.com)<br/>![图片](/timg.jpg) <br/>欢迎来聊聊[wxlink](www.baidu.com)',
+    BotHello: '前往公众号: [name](www.baidu.com) 回复 code 免费获取密码，然后点击左下角设置按钮输入密码后解锁免费使用  
+提问:你可以在这里放一些常用问题吗?<br/>回答:当然可以,还可以在这里放一些问题解答，太棒了!  
+常见问题和使用说明点击查看👉 [link](www.baidu.com)  
+卡顿或无响应?可能是用户量太大,👉 [buylink](www.baidu.com)  
+![图片](/timg.jpg)  
+欢迎来聊聊[wxlink](www.baidu.com)',
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) =>
