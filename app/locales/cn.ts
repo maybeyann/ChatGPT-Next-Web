@@ -170,9 +170,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: '长了就不行吗,标点测试
-换行测试
-👉![图片](/timg.jpg)',
+    BotHello: '![图片](/timg.jpg)🧐emoji测试',
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) =>
