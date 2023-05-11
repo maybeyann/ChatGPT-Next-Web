@@ -170,7 +170,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "你好，这是新的聊天",
+    BotHello: '🧐emoji测试',
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) =>
