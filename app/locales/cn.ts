@@ -170,7 +170,8 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: '![图片](/timg.jpg) ',
+    BotHello: '![图片](/timg.jpg) 
+常见问题和使用说明点击查看',
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) =>
