@@ -170,7 +170,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: '长了就不行吗，标点测试
+    BotHello: '长了就不行吗,标点测试
 换行测试
 👉![图片](/timg.jpg)',
     Error: "出错了，稍后重试吧",
