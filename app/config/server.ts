@@ -33,8 +33,8 @@ export const getServerSideConfig = () => {
     );
   }
   
-<!--   const apiKeys = (process.env.OPEN_AI_KEY ?? '').split(',')
-  const apiKey =apiKeys.at(Math.floor(Math.random() * apiKeys.length)) ?? '' -->
+<!--   const apiKeys = (process.env.OPEN_AI_KEY ?? '').split(',')-->
+<!--   const apiKey =apiKeys.at(Math.floor(Math.random() * apiKeys.length)) ?? '' -->
 
   return {
     apiKey:process.env.OPEN_AI_KEY,
